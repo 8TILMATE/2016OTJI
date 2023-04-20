@@ -1,0 +1,14 @@
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\bin\Debug\Resurse\GoodFood.mdf
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\bin\Debug\Resurse\GoodFood_log.ldf
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\bin\Debug\GoodFood.exe.config
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\bin\Debug\GoodFood.exe
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\bin\Debug\GoodFood.pdb
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\obj\Debug\GoodFood.csproj.AssemblyReference.cache
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\obj\Debug\GoodFood.Form1.resources
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\obj\Debug\GoodFood.Properties.Resources.resources
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\obj\Debug\GoodFood.csproj.GenerateResource.cache
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\obj\Debug\GoodFood.csproj.CoreCompileInputs.cache
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\obj\Debug\GoodFood.exe
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\obj\Debug\GoodFood.pdb
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\obj\Debug\GoodFood.irinalogin.resources
+C:\Users\rafxg\source\repos\GoodFood\GoodFood\obj\Debug\GoodFood.irinasignin.resources
